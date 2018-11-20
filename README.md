@@ -2,6 +2,9 @@
 This very minimalistic 2D tile based game was created to practice to manage "complexity", learn to apply the basic knowledge
 of the java syntax as a novice Java programmer.
 
+To play the game
+Download all files in the repository, compile Game.java and run Game from the command line.
+
 
 Goal:
     equip yourself with armor, swords and ham (food) to withstand the fire and fights with dragons that you
