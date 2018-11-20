@@ -2,10 +2,12 @@
 This very minimalistic 2D tile based game was created to practice to manage "complexity", learn to apply the basic knowledge
 of the java syntax as a novice Java programmer.
 
-To play the game
+
+# play the game
 Download all files in the repository, compile Game.java and run Game from the command line.
 
 
+# game description
 Goal:
     equip yourself with armor, swords and ham (food) to withstand the fire and fights with dragons that you
     will encounter. Try to fight your way through to the exit door, which you can only open if you have one key
