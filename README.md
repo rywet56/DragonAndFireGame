@@ -23,13 +23,13 @@ Download all files in the repository, compile Game.java and run Game from the co
 ## equip/use items:
     Every item in the inventory can be equipped by pressing E and at the same time klicking on the respective
     item in the inventory that you want to equip.
-    Ham: When you equip ham, ham will be eaten and you obtain one life point (heart)
-    Sword: When you equip a sword, your damage will be increased by one. You can equip a maximum of two swords at a time.
-    Armor: When you equip an armor, you will be protected by five shields as shown in the top menu bar. When you
+    - Ham: When you equip ham, ham will be eaten and you obtain one life point (heart)
+    - Sword: When you equip a sword, your damage will be increased by one. You can equip a maximum of two swords at a time.
+    - Armor: When you equip an armor, you will be protected by five shields as shown in the top menu bar. When you
            are attacked, first these shields will be removed until the armor is used up - destroyed. When the armor is used
            destroyed, it will disappear form the inventory. You can equip a maximum of one armor at a time.
-    Red Diamond: When you equip a red diamond, nothing will happen, unless you are at the exit gate of the game.
-    Key: When you equip a key, nothing will happen, unless you are at the exit gate of the game.
+    - Red Diamond: When you equip a red diamond, nothing will happen, unless you are at the exit gate of the game.
+    - Key: When you equip a key, nothing will happen, unless you are at the exit gate of the game.
 ## Remove items:
     If you want to remove item from your inventory, press R and Left Mouse klick on the item in your inventory that
     you want to remove. The removed item will be dropped into the world where you are currently standing and can be
