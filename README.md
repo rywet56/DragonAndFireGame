@@ -4,6 +4,7 @@ of the java syntax as a novice Java programmer.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43107602/67616927-1d6d1800-f7de-11e9-83b9-52f4ac079f44.png"        height="540" width="960">
  </p>
+ 
 # Getting Started
 Download all files in the repository, compile Game.java and run Game from the command line.
 
