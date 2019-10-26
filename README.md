@@ -2,7 +2,7 @@
 In this 2D-tile game you have to equip youself with armor, foood and weapons to withstand fire and to fight dragons. The ulitmate goal is to reach the exit door, which can be opend with a key and a red diamond in your inventory.
 This game was developed to practice basic Java concepts gained in the course [CS61b: Data Structures](https://sp19.datastructur.es).
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/43107602/67617122-28c14300-f7e0-11e9-9bf0-c58b5b535cbd.png"        height="540" width="960">
+  <img src="https://user-images.githubusercontent.com/43107602/67617122-28c14300-f7e0-11e9-9bf0-c58b5b535cbd.png"        height="462.85" width="822.86">
  </p>
  
 # Getting Started
