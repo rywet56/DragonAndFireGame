@@ -1,12 +1,12 @@
 # DragonAndFireGame
-This very minimalistic 2D tile game was created to practice to manage "complexity", learn to apply the basic knowledge
-of the java syntax as a novice Java programmer.
+In this 2D-tile game you have to equip youself with armor, foood and weapons to withstand fire and to fight dragons. The ulitmate goal is to reach the exit door, which can be opend with a key and a red diamond in your inventory.
+This game was developed to practice basic Java concepts gained in the course [CS61b: Data Structures](https://sp19.datastructur.es).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43107602/67617122-28c14300-f7e0-11e9-9bf0-c58b5b535cbd.png"        height="540" width="960">
  </p>
  
 # Getting Started
-Download all files in the repository, compile Game.java and run Game from the command line.
+Download all files in the repository, compile Game.java (javac Game.java) and run Game from the command line (java Game).
 
 
 # Game Description
